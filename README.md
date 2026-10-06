@@ -4,7 +4,7 @@ A native macOS window layout app, made for a calmer desktop. Previously **Proper
 
 **[Download the latest VibeDesktop release](https://github.com/NitsuaFox/VibeDesktop-Releases/releases/latest)**
 
-Choose the **VibeDesktop ZIP** in the release assets, unzip it and move **VibeDesktop.app** into Applications. Requires macOS 13 or later; supports Apple silicon and Intel.
+Choose the **VibeDesktop DMG** in the release assets. Open it, drag **VibeDesktop** onto **Applications**, then open the installed app from Applications and eject the installer disk. Requires macOS 13 or later; supports Apple silicon and Intel.
 
 ## Make room for your work
 
@@ -26,6 +26,6 @@ Use **Check for Updates** in your existing app. Your saved layouts and settings 
 
 ## About this repository
 
-This repository contains **public downloads, release notes and the signed update feed**. Application source is private. GitHub's automatically generated “Source code” archives contain this downloads repository, not the app; use the **VibeDesktop ZIP** instead.
+This repository contains **public downloads, release notes and the signed update feed**. Application source is private. GitHub's automatically generated “Source code” archives contain this downloads repository, not the app; use the **VibeDesktop DMG** instead. The ZIP remains available for the in-app updater.
 
 Sparkle verifies the feed and update archives before installation. Third-party license notices are included in the app.
